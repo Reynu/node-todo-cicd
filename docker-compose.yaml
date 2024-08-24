@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "renu14negu/node-todo-app:latest"
+    image: "renu14negi/node-todo-app:latest"
     ports:
       - "8000:8000"
